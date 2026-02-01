@@ -33,4 +33,4 @@ box.innertext  -----> hello    respects na dreads the css ...display:none
 it is slower cud it reads css instrutions 
 
 box.textcontent ----> hello secret 
-faster cuz prints everything. 
+faster cuz prints everything. */
